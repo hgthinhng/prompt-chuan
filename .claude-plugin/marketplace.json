@@ -1,0 +1,13 @@
+{
+  "name": "prompt-chuan",
+  "owner": {
+    "name": "hgthinhng"
+  },
+  "plugins": [
+    {
+      "name": "prompt-chuan",
+      "source": "./",
+      "description": "Viết và tỉa chỉ dẫn cho Claude đời 5.x và các agent: prompt giao việc, system prompt, CLAUDE.md, SKILL.md, subagent, prompt cho CLI khác."
+    }
+  ]
+}

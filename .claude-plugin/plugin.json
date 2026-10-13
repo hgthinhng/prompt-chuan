@@ -1,0 +1,12 @@
+{
+  "name": "prompt-chuan",
+  "description": "Viết và tỉa chỉ dẫn cho Claude đời 5.x và các agent: prompt giao việc, system prompt, CLAUDE.md, SKILL.md, subagent, prompt cho CLI khác.",
+  "author": {
+    "name": "hgthinhng"
+  },
+  "homepage": "https://github.com/hgthinhng/prompt-chuan",
+  "repository": "https://github.com/hgthinhng/prompt-chuan",
+  "license": "MIT",
+  "keywords": ["prompt", "prompt-engineering", "claude-code", "skill", "vietnamese"],
+  "skills": "./skills/"
+}
